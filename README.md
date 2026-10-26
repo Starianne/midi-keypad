@@ -9,11 +9,6 @@ It uses the ESP32 like my week 1 project, and has a star theme around it:
 And will look like this:
 <img width="367" height="272" alt="image" src="https://github.com/user-attachments/assets/9a3b0dff-c7c1-4b21-bba3-a530a050fcb6" />
 
+I keep struggling on wiring this, so for now, here is my current wiring so far:
+<img width="598" height="418" alt="image" src="https://github.com/user-attachments/assets/cc5cf989-3f6a-420f-9b38-b0341e6c1adb" />
 
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaa
-(will fix sorry)
