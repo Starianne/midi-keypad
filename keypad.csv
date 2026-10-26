@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"";"";1;"";;;
+2;"D1, D2, D3";"LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount";3;"SK6812MINI-E";;;
+3;"J1, J1, J1, J1, J1, J1";"keypadb";6;"Capacitive touch buttons";;;
+4;"SW1, SW2, SW3";"Kailh Choc Low-Profile Switches";3;"SW_Push";;;
+5;"U1";"XIAO ESP32-S3";1;"XIAO-ESP32-S3";;;
