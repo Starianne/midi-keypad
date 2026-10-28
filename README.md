@@ -8,8 +8,6 @@ Features:
  - 3 keys to press as buttons
  - an esp32 s3 for all of its computing needs
 <br/>
-[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/Starianne/midi-keypad)
-<br/>
 <br/>
 Some more previews: <br/>
 <img width="610" height="452" alt="image" src="https://github.com/user-attachments/assets/f8d17555-59c7-462b-be6b-1e78cd1a8b63" /> <br/>
