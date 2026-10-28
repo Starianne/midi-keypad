@@ -1,7 +1,17 @@
 # midi-keypad
-making a midi-keyboard using guide for hackclub half life week 3, I made it with custom footprints for the touch pads which are star shaped! 
+making a midi-keyboard using guide for hackclub half life week 3, I made it with custom footprints for the touch pads which are star shaped! <br/>
+<img width="777" height="597" alt="image" src="https://github.com/user-attachments/assets/2c8db8ce-a85b-4982-9447-1f1a403e335f" /> <br/>
 
-It uses the ESP32 like my week 1 project, and has a star theme around it: <br/>
+Features:
+ - Copper pads with a custom footprint
+ - 3 SK6812 MINI-E Neopixels LEDs
+ - 3 keys to press as buttons
+ - an esp32 s3 for all of its computing needs
+<br/>
+[![View PCB on KiCanvas](https://hack.club/pcb-badge)](https://kicanvas.org/?repo=https://github.com/Starianne/midi-keypad)
+<br/>
+<br/>
+Some more previews: <br/>
 <img width="610" height="452" alt="image" src="https://github.com/user-attachments/assets/f8d17555-59c7-462b-be6b-1e78cd1a8b63" /> <br/>
 <img width="587" height="439" alt="image" src="https://github.com/user-attachments/assets/d95b5e49-290f-4d95-b387-19bc7dcf30b7" /> <br/>
 
