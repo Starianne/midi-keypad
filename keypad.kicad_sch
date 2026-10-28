@@ -2235,16 +2235,6 @@
 		)
 		(uuid "0afaa1c3-3a9b-4783-9cfd-8d8404487e18")
 	)
-	(label "LED"
-		(at 81.28 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "264a118c-66bd-4d48-b7c5-802cbae870c3")
-	)
 	(label "TOUCH4"
 		(at 27.94 55.88 0)
 		(effects
@@ -2254,6 +2244,16 @@
 			(justify left bottom)
 		)
 		(uuid "29cb268c-4a3f-4126-9986-8852845b0997")
+	)
+	(label "TOUCH7"
+		(at 81.28 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e23be57-8efe-4115-a7db-c3be3a7cd458")
 	)
 	(label "SWITCH3"
 		(at 132.08 124.46 0)
@@ -2274,16 +2274,6 @@
 			(justify left bottom)
 		)
 		(uuid "37e04fc3-2865-4c60-b441-27d3aa4a3909")
-	)
-	(label "SWITCH3"
-		(at 81.28 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "388f911d-4989-478d-9df7-3bb6269e1486")
 	)
 	(label "TOUCH7"
 		(at 31.75 119.38 0)
@@ -2334,16 +2324,6 @@
 			(justify left bottom)
 		)
 		(uuid "4d821ce7-290d-4a13-8de4-8ba94ba36d06")
-	)
-	(label "TOUCH7"
-		(at 81.28 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "513d5f21-301e-4d9b-a7b1-1781b4a1a08b")
 	)
 	(label "TOUCH6"
 		(at 27.94 60.96 0)
@@ -2405,6 +2385,16 @@
 		)
 		(uuid "894ca8db-0c6e-447b-85d7-1bcbe1d20ee8")
 	)
+	(label "SWITCH3"
+		(at 81.28 55.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "942ff81c-4c61-4420-afb0-e46d42d08a16")
+	)
 	(label "TOUCH1"
 		(at 31.75 104.14 0)
 		(effects
@@ -2414,6 +2404,16 @@
 			(justify left bottom)
 		)
 		(uuid "dc88e8de-6773-4962-9247-95616883da71")
+	)
+	(label "LED"
+		(at 81.28 58.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ec10fd69-7437-4664-aadc-0565b4eb5954")
 	)
 	(label "TOUCH6"
 		(at 31.75 116.84 0)
